@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1594545501347,
+  "timestamp": 1594546040672,
   "index": "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/index.html",
   "assetGroups": [
     {
@@ -41,15 +41,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-128x128.png": "368d61812f24d3682c1875f11318099d54e8d7a3",
+    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-128x128.png": "1c2bd87dde1edb699c3e2d9da3617e50b6cc8c4f",
     "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-144x144.png": "13d8cc763e7d238aad247a7793c3c4235b9639a4",
-    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-152x152.png": "f404153fff7629f529da8173c0ff3779469cd46a",
-    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-192x192.png": "973c0e2cef395433d9f542c27498c38bcb46b816",
-    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-256x256.png": "408368e7b47204712771f385ff0e6c33e82717de",
-    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-384x384.png": "59ff5059e996b54e9da525abf05e912af6468d3a",
-    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-512x512.png": "bfc85786757dd6a9c01593726244b0f02b652648",
-    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-72x72.png": "8cb8ae3bd4312612b8bb1a14c0292256e812dcda",
-    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-96x96.png": "5cd1e03739df1b34207098a22c03b20f3bd80f41",
+    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-152x152.png": "edefae1c6c8f35047a8c8b0fdb1f92a7f6f66842",
+    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-192x192.png": "0f339c3837a14d7a7b49dc034c7ef7874271a00d",
+    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-256x256.png": "c1a40008e2a3d0f6485c1e3cf36eea23fca6d105",
+    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-384x384.png": "09dad94709f34aa6a538f3017cb4ddc541abe0da",
+    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-512x512.png": "79f8871519e58378f1a34b401d019ea830fe71cf",
+    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-72x72.png": "5e43acf313cdf8ce7040bf5b1dfcb1cd2e6e080e",
+    "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/assets/icons/icon-96x96.png": "81ca24b92f23ae683b4ae60f83bd616a06e4f420",
     "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/index.html": "f60439f62634faa05fc05cbd6b401bb342754acc",
     "https://internetprojects-pl.github.io/CDV-PWA-ANGULAR-120720/main-es2015.f98b47d93b8d6bb8986a.js": "e6ce9d2c2bd58a0e9ac30aeff610cf9d7d0ec5f0",
